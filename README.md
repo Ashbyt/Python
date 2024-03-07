@@ -7,7 +7,9 @@ https://randomresearchai.medium.com/svc-model-in-python-2d7b6d9434b4
 https://realpython.com/python-ai-neural-network/
 https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8
 https://realpython.com/linear-regression-in-python/
-https://www.datacamp.com/tutorial/categorical-data**
+https://www.datacamp.com/tutorial/categorical-data
+https://scrapfly.io/blog/how-to-scrape-twitter/
+https://mode.com/blog/python-data-visualization-libraries
 
 
 
