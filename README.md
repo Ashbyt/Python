@@ -12,4 +12,5 @@ https://scrapfly.io/blog/how-to-scrape-twitter/
 https://mode.com/blog/python-data-visualization-libraries
 https://docs.kanaries.net/articles/visualize-apahce-spark-data
 https://medium.com/@dipan.saha/pyspark-made-easy-day-3-dataframes-data-transformation-cleansing-analysis-and-visualization-c4a0d5025a5
+https://seaborn.pydata.org/
 https://actuariesinstitute.github.io/cookbook/docs/python_by_example.html
