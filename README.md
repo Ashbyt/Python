@@ -1,5 +1,6 @@
 Ashley Bythell - Python code
 
+https://wiki.python.org/moin/GuiProgramming
 https://jakevdp.github.io/PythonDataScienceHandbook/index.html
 https://www.w3schools.com/python/python_ml_getting_started.asp
 https://medium.com/@datasciencedelight/simplifying-data-analysis-with-python-a-beginners-guide-f79211c08842
@@ -13,5 +14,4 @@ https://mode.com/blog/python-data-visualization-libraries
 https://docs.kanaries.net/articles/visualize-apahce-spark-data
 https://medium.com/@dipan.saha/pyspark-made-easy-day-3-dataframes-data-transformation-cleansing-analysis-and-visualization-c4a0d5025a5
 https://seaborn.pydata.org/
-https://actuariesinstitute.github.io/cookbook/docs/python_by_example.html
 https://actuariesinstitute.github.io/cookbook/docs/python_by_example.html
