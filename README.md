@@ -16,3 +16,4 @@ https://medium.com/@dipan.saha/pyspark-made-easy-day-3-dataframes-data-transform
 https://seaborn.pydata.org/
 https://actuariesinstitute.github.io/cookbook/docs/python_by_example.html
 https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
+https://realpython.com/search?kind=article&kind=course&order=newest
