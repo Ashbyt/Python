@@ -1,4 +1,4 @@
-Ashley Bythell - Python code
+Ashley Bythell - Python
 
 https://wiki.python.org/moin/GuiProgramming
 https://jakevdp.github.io/PythonDataScienceHandbook/index.html
@@ -17,3 +17,4 @@ https://seaborn.pydata.org/
 https://actuariesinstitute.github.io/cookbook/docs/python_by_example.html
 https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
 https://realpython.com/search?kind=article&kind=course&order=newest
+https://www.actuartech.com/courses/foundations-in-python#:~:text=Overview,open%20source%20programming%20language%2C%20Python.
