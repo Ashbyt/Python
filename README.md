@@ -1,5 +1,7 @@
 Ashley Bythell - Python
 
+
+https://plainenglish.io/blog/analysing-powerball-numbers-with-python-84ebcb56065d
 https://wiki.python.org/moin/GuiProgramming
 https://jakevdp.github.io/PythonDataScienceHandbook/index.html
 https://www.w3schools.com/python/python_ml_getting_started.asp
