@@ -1,6 +1,6 @@
 Ashley Bythell - Python
 
-
+https://medium.com/@thelazydatascientist/using-artificial-intelligence-to-win-the-1-73-billion-powerball-jackpot-1428768cb96e
 https://plainenglish.io/blog/analysing-powerball-numbers-with-python-84ebcb56065d
 https://wiki.python.org/moin/GuiProgramming
 https://jakevdp.github.io/PythonDataScienceHandbook/index.html
