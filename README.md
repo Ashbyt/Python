@@ -1,5 +1,6 @@
 Ashley Bythell - Python links
 
+https://uit.stanford.edu/service/techtraining/class/python-i-fundamentals-entry-level-python-programmer-certification
 https://www.linkedin.com/learning/topics/python
 https://www.linkedin.com/pulse/6-steps-build-app-python-complete-guide-dhiman-bhattacharyya/
 https://www.ebay.com.au/itm/386434914268?chn=ps&_ul=AU&_trkparms=ispr%3D1&amdata=enc%3A1MQZUVk1vSiGA5YvG8BvyGg85&norover=1&mkevt=1&mkrid=705-139619-5960-0&mkcid=2&mkscid=101&itemid=386434914268&targetid=1598469862078&device=c&mktype=pla&googleloc=1000286&poi=&campaignid=19657035767&mkgroupid=143201283022&rlsatarget=pla-1598469862078&abcId=9305369&merchantid=5054249123&gad_source=1&gclid=Cj0KCQjwqpSwBhClARIsADlZ_TlhcXEt9MPKOEmceH88KWIDDo3w6YLpRR_1QJEhUfEL6SDT_YlsIysaAhZ-EALw_wcB
