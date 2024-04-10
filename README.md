@@ -1,5 +1,6 @@
 Ashley Bythell - Python links
 
+https://www.codecademy.com/articles/language/python
 https://pypi.org/project/python-facebook-api/
 https://cds.cern.ch/record/2274794?ln=en
 https://www.datacamp.com/tutorial/finance-python-trading
