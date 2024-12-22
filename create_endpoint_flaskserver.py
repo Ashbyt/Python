@@ -1,4 +1,4 @@
-rom flask import Flask
+from flask import Flask
 import json
 from flask import Flask, render_template, redirect, url_for, request 
 
